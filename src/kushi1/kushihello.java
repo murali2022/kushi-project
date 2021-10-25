@@ -4,6 +4,8 @@ public class kushihello {
 
 	public static void main(String[] args) {
 		System.out.println("welcome to kushi");
+		System.out.println("welcome to new project");
+		
 
 	}
 
